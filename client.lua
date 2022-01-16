@@ -1,10 +1,5 @@
 local inapartment = false
 
-RegisterNetEvent('esx:playerLoaded')
-AddEventHandler('esx:playerLoaded', function(PlayerData)
-    PlayerData = xPlayer
-end)
-
 Citizen.CreateThread(function()
         local blip = AddBlipForCoord(-270.6047, -957.9693, 30.2231)
 
