@@ -3,6 +3,7 @@ Simple apartments resource managed clientside, the storage and clothing all use 
 
 This resource is created with esx Legacy, other versions **might** not work without modifying the resource.
 
+I borrowed some code from Linden's [esx_multichar](https://github.com/thelindat/esx_multicharacter) to make players invisible.
 ### WIP
 * invite players into home
 * givekeys to other players
