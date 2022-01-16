@@ -1,10 +1,7 @@
 # esx_apartments
-Simple apartments resource managed clientside.
-
+Simple apartments resource managed clientside, the storage and clothing all use exports and can easily be changed. PR's are always welcome.
 
 This resource is created with esx Legacy, other versions **might** not work without modifying the resource.
-It probably needs some optimization.
-PR's are always welcome.
 
 ### WIP
 * invite players into home
@@ -14,9 +11,9 @@ PR's are always welcome.
 ### Dependencies
 * [es_extended] https://github.com/overextended/es_extended #ox version
 * [ox_inventory](https://github.com/overextended/ox_inventory)
-* [PolyZone](https://github.com/mkafrin/PolyZone)
 * [qtarget](https://github.com/QuantusRP/qtarget)
 * [nh-context](https://github.com/LukeWasTakenn/nh-context)
+* [fivem-appearance](https://forum.cfx.re/t/brp-fivem-appearance/4170313)
 * [cd-drawtextui](https://github.com/dsheedes/cd_drawtextui)
 ### recommended
 * [Breze-motelroom](https://forum.cfx.re/t/release-motel-room-mlo/846934)
